@@ -11,9 +11,9 @@ This start the server
 # Now create the app 
 python manage.py startapp polls
 
-#Follow the instructions
+# Follow the instructions
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/
 
-#This Project
+# This Project
 So far material kept till tutorial04
